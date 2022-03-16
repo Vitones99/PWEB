@@ -1,0 +1,37 @@
+<!doctype html> 
+<html lang="pt-br">
+<head>
+	<title>Atividade 3</title>
+	<meta charset="utf-8" />	
+	<link rel="stylesheet" href="estilo.css" />
+</head>
+<body>
+	<header>
+		<div class="topo">
+			<h1>LEI GERAL DE PROTEÇÃO DE DADOS (LGPD)</h1>
+		</div>
+		<div class="menu">
+			<ul class="inline">
+				<li><a href="index.html">HOME&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+				<li><a href="TpsDados.html">TIPOS DE DADOS PESSOAIS&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+				<li><a href="Biografia.html">ANPD&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+				<li><a href="Raulzito.html">IMPORTÂNCIA&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+				<li><a href="index.html">ADEQUAÇÃO&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+				<li><a href="Discografia.html">BASES LEGAIS&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+			</ul>
+		</div>
+		<div class="corpo">
+			<br>
+			<h2>INTRODUÇÃO LGPD<h2>
+			<p>A Lei Geral de Proteção de Dados (13.709/2018) tem como principal objetivo proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural. 
+			Também tem como foco a criação de um cenário de segurança jurídica, com a padronização de regulamentos e práticas para promover a proteção aos dados pessoais de todo cidadão que esteja no Brasil, de acordo 
+			com os parâmetros internacionais existentes.A lei define o que são dados pessoais e explica que alguns deles estão sujeitos a cuidados ainda mais específicos, como os dados pessoais sensíveis e dados 
+			pessoais sobre crianças e adolescentes. Esclarece ainda que todos os dados tratados, tanto no meio físico quanto no digital, estão sujeitos à regulação. Além disso, a LGPD estabelece que não importa se 
+			a sede de uma organização ou o centro de dados dela estão localizados no Brasil ou no exterior: se há o processamento de informações sobre pessoas, brasileiras ou não, que estão no território nacional,
+			a LGPD deve ser observada. A lei autoriza também o compartilhamento de dados pessoais com organismos internacionais e com outros países, desde que observados os requisitos nela estabelecidos.</p>
+			<div>
+			<img src="LGPD_Inicial.png" alt="Notebook e Cadeado representando a segurança da informação junto a sigla LGPD" />
+			</div>
+		</div>
+	</header>
+</body>

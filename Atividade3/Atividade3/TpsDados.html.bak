@@ -1,0 +1,72 @@
+<!doctype html> 
+<html lang="pt-br">
+<head>
+	<title>Atividade 3</title>
+	<meta charset="utf-8" />	
+	<link rel="stylesheet" href="estilo.css" />
+</head>
+<body>
+	<header>
+		<div class="topo">
+			<h1>LEI GERAL DE PROTEÇÃO DE DADOS (LGPD)</h1>
+		</div>
+		<div class="menu">
+			<ul class="inline">
+				<li><a href="index.html">HOME&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+				<li><a href="TpsDados.html">TIPOS DE DADOS PESSOAIS&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+				<li><a href="ANPD.html">ANPD&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+				<li><a href="Importancia.html">IMPORTÂNCIA&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+				<li><a href="Adequacao.html">ADEQUAÇÃO&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+			</ul>
+		</div>
+		<div class="corpo">
+			<br>
+			<h2>TIPOS DE DADOS PESSOAIS</h2>
+			<p>A partir da Lei n.º 13.709/2018 a proteção de dados passou a ser um compromisso dos(as) cidadãos(ãs), da administração pública e das empresas que utilizam esses dados.
+				O dado pessoal é aquele que possibilita a identificação, direta ou indireta, da pessoa natural.</p>
+			<p>São exemplos de dados pessoais:</p>
+				<ul>
+					<li>Nome e sobrenome;</li>
+					<li>Data e local de nascimento;</li>
+					<li>RG;</li>
+					<li>CPF;</li>
+					<li>Retrato em fotografia;</li>
+					<li>Endereço residencial;</li>
+					<li>Endereço de e-mail;</li>
+					<li>Número de cartão bancário;</li>
+					<li>Renda;</li>
+					<li>Histórico de pagamentos;</li>
+					<li>Hábitos de consumo;</li>
+					<li>Dados de localização, como por exemplo, a função de dados de localização no celular;</li>
+					<li>Endereço de ip (protocolo de internet);</li>
+					<li>Testemunhos de conexão (cookies);</li>
+					<li>Número de telefone.</li>
+				</ul>
+				<h2>DADOS SENSÍVEIS</h2>
+				<p>Dentre os dados pessoais, há aqueles que exigem maior atenção no tratamento: aqueles relacionados a crianças e adolescentes; e os “sensíveis”, que são os que revelam origem racial ou étnica, convicções 
+				religiosas ou filosóficas, opiniões políticas, filiação sindical, questões genéticas, biométricas e sobre a saúde ou a vida sexual de uma pessoa.</p>
+				<p>Quando o dado corresponder a menores de idade, é imprescindível obter o consentimento específico e em destaque dado por pelo menos um dos pais ou responsável legal e se limitar a pedir apenas o conteúdo estritamente necessário, 
+				sem repasse a terceiros.</p>
+				<p>Poderão ser coletados dados pessoais de menores sem o consentimento, apenas, quando a coleta for necessária para contatar os pais ou o(a) responsável legal, podendo ser utilizados uma única vez e sem armazenamento, 
+				ou para sua proteção, e em nenhum caso poderão ser repassados a terceiros sem o consentimento dado por pelo menos um dos pais ou pelo(a) responsável legal.</p>
+				<p>Sobre os dados sensíveis, o tratamento depende do consentimento explícito do(a) titular dos dados e para um fim definido. E, sem esse consentimento do(a) titular, a LGPD define que somente será possível, 
+				quando a informação for indispensável em situações relacionadas a uma obrigação legal; a políticas públicas; a estudos via órgão de pesquisa; ao exercício regular de direitos; à preservação da vida e da integridade física
+				 de uma pessoa; à tutela de procedimentos feitos por profissionais das áreas da saúde ou sanitária; à prevenção de fraudes contra o(a) titular.</p>
+
+				<h2>DADOS PÚBLICOS</h2>
+				<p>O tratamento de dados pessoais públicos deve considerar a finalidade, a boa-fé e o interesse público que justificaram a sua disponibilização. A LGPD define que uma organização pode, sem precisar pedir novo consentimento, 
+				tratar dados tornados públicos pelo(a) titular em momento anterior e de forma evidente. Porém, se a organização quiser compartilhar esses dados com outras organizações, necessariamente ela deverá pedir outro consentimento 
+				para esse fim - resguardadas as hipóteses de dispensa previstas na Lei.</p>
+				<p>É importante destacar que a LGPD também se relaciona com a Lei de Acesso à Informação (LAI), Lei nº 12.527/11, e com princípios constitucionais, a exemplo do inciso XXXIII, do artigo 5º: “todos têm direito a receber dos 
+				órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado”.</p>
+
+				<h2>DADOS ANONIMIZADOS</h2>
+				<p>A anonimização é uma técnica de processamento de dados que remove ou modifica informações que possam identificar a pessoa, garantindo sua desvinculação. Nestes casos, a LGPD não se aplicará ao dado.</p>
+				<p>Ressalta-se que o dado somente é considerado anonimizado se não permitir que, por meios técnicos ou outros, seja reconstruído o caminho para revelar quem é o(a) titular do dado. Se a identificação ocorrer, não se tratará 
+				de dado anonimizado, mas sim de dado pseudonimizado, e estará sujeito à LGPD.</p>
+			<div>
+			<img src="LGPD_Inicial.png" alt="Notebook e Cadeado representando a segurança da informação junto a sigla LGPD" />
+			</div>
+		</div>
+	</header>
+</body>

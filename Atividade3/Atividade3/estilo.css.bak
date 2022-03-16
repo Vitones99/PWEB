@@ -1,0 +1,47 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: #A9A9A9;
+}
+
+ul.inline li,
+ol.inline li {
+	display: inline;
+}
+
+ul.inline li:last-child,
+ol.inline li:last-child {
+	margin-right: 0;
+}
+
+a:link,
+a:active,
+a:visited {
+	font-weight: 500;
+	color: Black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: gold;
+}
+
+.menu {
+	text-align: center;
+	background-color: grey;
+	font-size: 30px;
+	
+}
+
+.topo{
+	background-color: #363636;
+}
+
+.corpo{
+	text-align: justify;
+}
+
+h1{
+	font-size: 50px;
+	color: White;
+	text-align: center;
+}

@@ -1,0 +1,71 @@
+<!doctype html> 
+<html lang="pt-br">
+<head>
+	<title>Atividade 3</title>
+	<meta charset="utf-8" />	
+	<link rel="stylesheet" href="estilo.css" />
+</head>
+<body>
+	<header>
+		<div class="topo">
+			<h1>LEI GERAL DE PROTEÇÃO DE DADOS (LGPD)</h1>
+		</div>
+		<div class="menu">
+			<ul class="inline">
+				<li><a href="index.html">HOME&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+				<li><a href="TpsDados.html">TIPOS DE DADOS PESSOAIS&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+				<li><a href="ANPD.html">ANPD&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+				<li><a href="Importancia.html">IMPORTÂNCIA&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+				<li><a href="Adequacao.html">ADEQUAÇÃO&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+			</ul>
+		</div>
+		<div class="corpo">
+			<br>
+				<h2>COMO SE ADEQUAR A LGPD?</h2>
+					<h2>CRIE UM COMITÊ DE ADEQUAÇÃO</h2>
+					<p>Ter um time voltado apenas para a aplicação da LGPD confere maior agilidade e foco ao processo de adaptação à lei. Por isso, prepare uma equipe multidisciplinar para validar a LGPD no 
+					seu ambiente corporativo. Ela pode incluir, por exemplo, pessoas do time de treinamento, jurídico, tecnologia e compliance.
+					<p>Juntos, esses profissionais precisarão validar documentos internos, levantar processos, alinhar rotinas, treinar equipes e garantir que tudo fique dentro da norma atual. Além disso, 
+					caberá a essa equipe comunicar mudanças e evitar que algum detalhe deixe de ser modificado.
+
+					<h2>TREINE OS PROFISSIONAIS</h2>
+					<p>O treinamento dos profissionais é outro ponto crítico para o sucesso da sua estratégia. Uma vez que as novas regras de gestão de dados forem implementadas, esse ponto deve ser priorizado. Isso garante
+					ao negócio ter alinhamento pleno com a LGPD o mais rápido possível.</p>
+					<p>Um bom treinamento comunica o que está sendo alterado e por qual motivo essa mudança ocorreu, além de assegurar que todo mundo está ciente das novidades. Desse modo, os times podem trabalhar 
+					engajados nas novas regras e sem oferecer riscos para a empresa.</p>
+
+					<h2>REVISE AS SUAS POLÍTICAS DE DADOS</h2>
+					<p>A revisão da política de dados precisa ser feita considerando todos os pontos da LGPD. Se conflitos forem encontrados, o negócio deve corrigi-los rapidamente, considerando o que a LGPD diz e 
+					não o seu estado atual.</p>
+					<p>Entre os pontos mais importantes da lei que devem ser considerados, podemos apontar os seguintes:
+					os usuários devem ser informados sobre como os seus dados são utilizados;
+					todo cliente pode pedir o acesso, a modificação, a portabilidade (se aplicável) e a remoção de suas informações a qualquer momento;
+					a empresa não pode fazer uso comercial de dados sensíveis como os de saúde e religião.</p>
+
+					<h2>SEJA TRANSPARENTE</h2>
+					<p>A transparência é um ponto crítico para a adoção da LGPD nas empresas. Ela permite ao negócio conquistar a confiança do seu público-alvo e evita transtornos. Afinal, quando a política de 
+					uso e compartilhamento de dados é acessível, todos saberão o que o negócio faz com registros de terceiros antes de fechar um contrato.</p>
+					<p>Por isso não deixe de publicar a sua política de uso, armazenamento e compartilhamento de dados. Busque comunicá-la por meio de uma linguagem acessível, clara e objetiva. Assim, todos saberão 
+					que podem fazer negócio com a sua empresa sem medo.</p>
+
+					<h2>TENHA UM MODELO DE GOVERNANÇA</h2>
+					<p>Um modelo de governança te ajudará a aplicar a LGPD dentro de toda a cultura do negócio. Cada área que lida com dados de clientes ficará motivada a cuidar adequadamente das informações de 
+					terceiros e, assim, evitar problemas de trabalho. Portanto, caso o seu negócio não tenha uma política já estruturada com esse fim, execute todas as medidas necessárias para garantir que a LGPD 
+					esteja integrada a esta política.</p>
+					<p>O que acontecerá com quem não se adaptar?</p>
+					<p>A não adaptação à LGPD pode trazer grandes problemas para qualquer empresa. O primeiro é a perda de competitividade: não é raro clientes considerarem o cuidado com os dados como um diferencial.</p>
+					<p>Judicialmente a empresa pode enfrentar problemas legais caso seja pega desalinhada com a LGPD. As punições vão de advertências a uma multa no valor de 2% do faturamento anual da 
+					empresa (limitado a R$ 50 milhões). Por isso, não deixe de implementar rapidamente os processos de adaptação do seu negócio.</p>
+					<p>A tecnologia tem um papel de grande importância no ambiente digital moderno. Softwares de gestão fiscal, controle financeiro, análise de dados e comunicação auxiliam empresas a reduzirem 
+					custos e a ampliarem o seu nível de automação. E, em um cenário em que a TI faz parte de tantas rotinas, a circulação de dados digitais é alta.</p>
+					<p>Por isso, é importante estar atento a leis que regulam o modo como esses dados são utilizados. Assim, encarar a adaptação da LGPD nas empresas como uma prioridade é fundamental para se manter 
+					competitivo nos próximos anos.</p>
+					<p>Conforme a tecnologia avança, essa é a única maneira de garantir que o seu negócio mantenha a confiança do público e evite problemas de segurança digital.</p>
+
+
+			<div>
+			<img src="LGPD_Inicial.png" alt="Notebook e Cadeado representando a segurança da informação junto a sigla LGPD" />
+			</div>
+		</div>
+	</header>
+</body>
