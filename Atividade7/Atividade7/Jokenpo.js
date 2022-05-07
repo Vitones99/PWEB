@@ -1,4 +1,4 @@
-var usuario = parseFloat(prompt("Escolha com sabedoria sua jogada!\nDigite o número correspondente a sua jogada...\n(1)= Pedra.\n(2)= Papel.\n(3)= Tesoura."));
+var usuario = parseFloat(prompt("Escolha sua jogada!!\n(1)= Pedra.\n(2)= Papel.\n(3)= Tesoura."));
 var computador = Math.random();
 
 if (computador <= 0.33) {
